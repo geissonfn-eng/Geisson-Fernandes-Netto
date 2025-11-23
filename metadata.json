@@ -1,0 +1,5 @@
+{
+  "name": "FinanceShare",
+  "description": "A modern financial tracker to manage personal and joint expenses, calculate splits automatically, and generate summary messages for sharing.",
+  "requestFramePermissions": []
+}
